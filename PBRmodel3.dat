@@ -1,0 +1,34 @@
+#	Pesqueria de Ejemplo
+#----------------------------------------------------
+
+# M	Steepness (h)        dt_desove   													
+0.3	1.0                  0.5
+
+#Numero de PBR a evaluar
+3
+
+#%SPR0 a evaluar
+0.2   0.4   0.6
+
+#Numero de edades
+10
+
+# edades                
+1    2    3    4    5    6    7    8     9    10
+
+#Proporción de madurez a la edad
+0.007	0.047	0.269	0.731	0.953	0.993	0.999	1.000	1.000	1.000
+
+#Peso medio a la edad
+0.138	0.516	1.150	1.996	2.992	4.077	5.198	6.314	7.393	8.415
+
+# Parámetros de selectividad 
+# A50%   inclinación     
+5.0      1.5              
+
+# Analisis de sensibilidad para cambios en A50 y F
+#A50_min  A50_max  intervalo
+1.0      9.0       0.5
+
+#F_min    F_max    intervalo
+0.0      2.0      0.05

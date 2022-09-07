@@ -1,0 +1,10 @@
+PBRmodel3
+
+Ejecutable que permite el análisis por recluta generalizado para diferentes configuraciones de entrada
+
+- Modifique la extensión del archivo PBRmodel3 ".mexe" a ".exe"
+
+- Ejecute el modelo con doble click sobre el archivo ejecutable PBRmodel.exe
+
+- Los resultados aparecerán en el archivo PBRmodel3.rep
+
